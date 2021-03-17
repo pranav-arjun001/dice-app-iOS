@@ -11,7 +11,6 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 
 ## What you will learn
 
-* How to clone an existing Xcode project from GitHub.
 * Create an app with behaviour and functionality.
 * Create links between the Interface Builder files and code using IBActions and IBOutlets.
 * Get familiar with the Xcode code editor.
